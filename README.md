@@ -1,1 +1,1 @@
-# ToyReact
+# toy-react
